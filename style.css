@@ -1,0 +1,23 @@
+body{
+    background-color: #083b4c;
+}
+
+.number{
+    background-color: #1389b2;
+}
+
+.fizzColor{
+    background-color: #0cd6a1;
+}
+
+.buzzColor{
+    background-color: #ffd166;
+}
+
+.fizzBuzzColor{
+    background-color: #f0466f;
+}
+
+.heightBlock{
+    height: 100px;
+}
